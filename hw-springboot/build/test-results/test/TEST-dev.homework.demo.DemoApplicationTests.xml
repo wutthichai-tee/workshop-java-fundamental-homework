@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.homework.demo.DemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-29T15:42:38.195Z" hostname="IF8000610597N1.local" time="0.001">
+  <properties/>
+  <testcase name="contextLoads()" classname="dev.homework.demo.DemoApplicationTests" time="0.001"/>
+  <system-out><![CDATA[2025-05-29T22:42:38.193+07:00  INFO 72620 --- [demo] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [dev.homework.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-05-29T22:42:38.193+07:00  INFO 72620 --- [demo] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration dev.homework.demo.DemoApplication for test class dev.homework.demo.DemoApplicationTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
