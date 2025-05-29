@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.homework.demo.PhoneNumberTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-05-29T16:39:36.118Z" hostname="IF8000610597N1.local" time="0.035">
+  <properties/>
+  <testcase name="invalidWhen9Digits()" classname="dev.homework.demo.PhoneNumberTest" time="0.025"/>
+  <testcase name="invalidIfAreaCodeStartsWith0OnValid11DigitNumber()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfAreaCodeStartsWith1OnValid11DigitNumber()" classname="dev.homework.demo.PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidWhenMoreThan11Digits()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfExchangeCodeStartsWith0OnValid11DigitNumber()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfExchangeCodeStartsWith1OnValid11DigitNumber()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWhen11DigitsDoesNotStartWith1()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWithLetters()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="cleansNumbersWithMultipleSpaces()" classname="dev.homework.demo.PhoneNumberTest" time="0.001"/>
+  <testcase name="cleansTheNumber()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="validWhen11DigitsAndStartingWith1()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWithPunctuations()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="cleansNumbersWithDots()" classname="dev.homework.demo.PhoneNumberTest" time="0.001"/>
+  <testcase name="validWhen11DigitsAndStartingWith1EvenWithPunctuation()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfAreaCodeStartsWith0()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfAreaCodeStartsWith1()" classname="dev.homework.demo.PhoneNumberTest" time="0.001"/>
+  <testcase name="invalidIfExchangeCodeStartsWith0()" classname="dev.homework.demo.PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidIfExchangeCodeStartsWith1()" classname="dev.homework.demo.PhoneNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

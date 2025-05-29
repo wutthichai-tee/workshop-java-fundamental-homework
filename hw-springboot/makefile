@@ -10,6 +10,9 @@ curl2:
 curl3:
 	curl -v -X GET "localhost:8080/leap/2526"
 
+curl4:	
+	curl -v -X GET "localhost:8080/phonenumber/2234567890"
+
 test:
 	./gradlew test
 
